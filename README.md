@@ -15,7 +15,7 @@ The flow is as follows:
 2) Retrieve all information needed to construct the communications such as
    people details, email addresses, people to exlude etc.. Load into TAllInformation 
 
-3) Adust the generic model data to tweek any data such as leap year changes in the case of ACME.
+3) Adust the generic model data (TAllInformation) to tweek any data such as leap year changes in the case of ACME.
 
 4) Exclude items identified in step 2.
 

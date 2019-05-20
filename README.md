@@ -12,7 +12,7 @@ The flow is as follows:
 
 1) Check the company to execute for and the medium to employ (email for ACME)
 
-2) Retrieve all information needed for contruction the communications such as
+2) Retrieve all information needed to contruction the communications such as
    people details, email addresses, people to exlude etc.. Load into TAllInformation 
 
 3) Adust the generic model data to tweek any data such as leap year changes in the case of ACME.
